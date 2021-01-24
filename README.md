@@ -1,36 +1,36 @@
 # Mac OS X Setup
 
-##System Settings
+## System Settings
 
-###General
+### General
 * Use Dark Theme
 * Recent items: none
 
-###Dock
+### Dock
 * Automatically hide and show: on
 * Show recent apps: off
 
-###Security & Privacy
+### Security & Privacy
 * Require Password immediately
 * Turn on FireVault
 
 ### Notification
 * Turn on Do Not Disturb
 
-###Network
+### Network
 * Change DNS to [1.1.1.1](https://1.1.1.1/dns)
 
-###Keyboard
+### Keyboard
 * Key Repeat: Fastest
 * Delay Until Repeat: Fastest
 
-###TrackPad
+### TrackPad
 * Tap to Click: on
 
-###Safari
+### Safari
 * Enable Developer tools
 
-##Terminal
+## Terminal
 
 * Install [HomeBrew](https://brew.sh)
 * Git Clone Dotfiles
