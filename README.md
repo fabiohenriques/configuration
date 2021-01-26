@@ -23,6 +23,7 @@
 ### Keyboard
 * Key Repeat: Fastest
 * Delay Until Repeat: Fastest
+* Remap CAPSLOCK to Ctrl 
 
 ### TrackPad
 * Tap to Click: on
